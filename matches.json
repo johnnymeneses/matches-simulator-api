@@ -6,12 +6,12 @@
             "imagem": "TODO"
         },  
         "mandante": { 
-            "nome": "Brasil" 
+            "nome": "Brasil", 
             "força": 5, 
             "imagem": "TODO"
         }, 
       "mandante": { 
-            "nome": "Argentina" 
+            "nome": "Argentina",
             "força": 3, 
             "imagem": "TODO"
         }
