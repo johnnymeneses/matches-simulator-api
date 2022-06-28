@@ -10,9 +10,9 @@
             "força": 5, 
             "imagem": "TODO"
         }, 
-      "mandante": { 
+      "visitante": { 
             "nome": "Argentina",
-            "força": 3, 
+            "forca": 3, 
             "imagem": "TODO"
         }
  
