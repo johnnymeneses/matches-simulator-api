@@ -42,6 +42,24 @@
             "imagem": "TODO"
         },  
         "mandante": { 
+            "nome": "Mexico", 
+            "forca": 5, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/mx.png"
+        }, 
+      "visitante": { 
+            "nome": "Alemanha",
+            "forca": 1, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
+        }
+ 
+    }, 
+    { 
+       "descricao": "Eliminatorioas Copa 2022", 
+       "local": {
+            "nome": "Maracanna", 
+            "imagem": "TODO"
+        },  
+        "mandante": { 
             "nome": "Camarões", 
             "forca": 5, 
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cm.png"
@@ -52,8 +70,6 @@
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/hr.png"
         }
  
-    } 
-
 
 ] 
 
