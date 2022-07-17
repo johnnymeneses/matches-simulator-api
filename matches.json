@@ -24,14 +24,14 @@
             "imagem": "TODO"
         },  
         "mandante": { 
-            "nome": "Brasil", 
+            "nome": "Nova Zelândia", 
             "forca": 5, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/nz.png"
         }, 
       "visitante": { 
-            "nome": "Uruguai",
-            "forca": 3, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+            "nome": "Espanha",
+            "forca": 2, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
         }
  
     },
@@ -42,14 +42,14 @@
             "imagem": "TODO"
         },  
         "mandante": { 
-            "nome": "Brasil", 
+            "nome": "Mexico", 
             "forca": 5, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/mx.png"
         }, 
       "visitante": { 
-            "nome": "Uruguai",
-            "forca": 3, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+            "nome": "Alemanha",
+            "forca": 1, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
         }
  
     } 
