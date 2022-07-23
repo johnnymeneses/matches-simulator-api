@@ -20,7 +20,7 @@
     { 
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
-            "nome": "Maracanna", 
+            "nome": "Eden Park", 
             "imagem": "TODO"
         },  
         "mandante": { 
@@ -29,16 +29,16 @@
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/nz.png"
         }, 
       "visitante": { 
-            "nome": "Espanha",
+            "nome": "Australia",
             "forca": 4, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/au.png"
         }
  
     },
     { 
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
-            "nome": "Maracanna", 
+            "nome": "Estadio Centenario", 
             "imagem": "TODO"
         },  
         "mandante": { 
@@ -56,7 +56,7 @@
     { 
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
-            "nome": "Maracanna", 
+            "nome": "Morumbi", 
             "imagem": "TODO"
         },  
         "mandante": { 
