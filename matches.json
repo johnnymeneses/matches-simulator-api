@@ -25,12 +25,12 @@
         },  
         "mandante": { 
             "nome": "Nova Zelândia", 
-            "forca": 1, 
+            "forca": 2, 
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/nz.png"
         }, 
       "visitante": { 
             "nome": "Espanha",
-            "forca": 4, 
+            "forca": 3, 
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
         }
  
@@ -43,12 +43,12 @@
         },  
         "mandante": { 
             "nome": "Uruguai", 
-            "forca": 5, 
+            "forca": 2, 
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
         }, 
       "visitante": { 
             "nome": "Alemanha",
-            "forca": 1, 
+            "forca": 4, 
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
         }
  
