@@ -29,9 +29,9 @@
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/nz.png"
         }, 
       "visitante": { 
-            "nome": "Australia",
+            "nome": "Espanha",
             "forca": 4, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/au.png"
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
         }
  
     },
@@ -52,25 +52,7 @@
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
         }
  
-    }, 
-    { 
-       "descricao": "Eliminatorioas Copa 2022", 
-       "local": {
-            "nome": "Morumbi", 
-            "imagem": "https://www.arqtricolor.com/wp-content/uploads/2018/08/00.jpg"
-        },  
-        "mandante": { 
-            "nome": "Camarões", 
-            "forca": 5, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cm.png"
-        }, 
-      "visitante": { 
-            "nome": "Croácia",
-            "forca": 3      , 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/hr.png"
-        }
-    }
- 
+    } 
 
 ] 
 
