@@ -2,8 +2,8 @@
     { 
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
-            "nome": "Maracanna", 
-            "imagem": "TODO"
+            "nome": "Bombonera", 
+            "imagem": "https://s2.glbimg.com/-r5rfhsi99vVPDjlM0XjTTWZCpA=/0x0:3900x2648/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/r/0/PMjgnYTECBCrSJ1hAKDw/fmwhm034zzro51tdp2nuepmsqhdqleutgrums34f-1-.jpeg"
         },  
         "mandante": { 
             "nome": "Brasil", 
@@ -11,9 +11,9 @@
             "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
         }, 
       "visitante": { 
-            "nome": "Uruguai",
+            "nome": "Argentina",
             "forca": 3, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
         }
  
     },
@@ -21,7 +21,7 @@
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
             "nome": "Eden Park", 
-            "imagem": "TODO"
+            "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/21/5d/1c/eden-park-new-zealand.jpg"
         },  
         "mandante": { 
             "nome": "Nova Zelândia", 
@@ -38,8 +38,8 @@
     { 
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
-            "nome": "Estadio Centenario", 
-            "imagem": "TODO"
+            "nome": "Allianz Parque", 
+            "imagem": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2016/12/1412002244152.jpg"
         },  
         "mandante": { 
             "nome": "Mexico", 
@@ -57,7 +57,7 @@
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
             "nome": "Morumbi", 
-            "imagem": "TODO"
+            "imagem": "https://www.arqtricolor.com/wp-content/uploads/2018/08/00.jpg"
         },  
         "mandante": { 
             "nome": "Camarões", 
