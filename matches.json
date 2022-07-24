@@ -38,13 +38,13 @@
     { 
        "descricao": "Eliminatorioas Copa 2022", 
        "local": {
-            "nome": "Allianz Parque", 
-            "imagem": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2016/12/1412002244152.jpg"
+            "nome": "Estadio Centenario", 
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
         },  
         "mandante": { 
-            "nome": "Mexico", 
-            "forca": 3, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/mx.png"
+            "nome": "Uruguai", 
+            "forca": 5, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
         }, 
       "visitante": { 
             "nome": "Alemanha",
