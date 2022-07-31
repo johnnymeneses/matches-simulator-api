@@ -1,0 +1,57 @@
+[ 
+    { 
+       "descricao": "Eliminatórias Copa 2022", 
+       "local": {
+            "nome": "La Bombonera", 
+            "imagem": "https://s2.glbimg.com/-r5rfhsi99vVPDjlM0XjTTWZCpA=/0x0:3900x2648/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/r/0/PMjgnYTECBCrSJ1hAKDw/fmwhm034zzro51tdp2nuepmsqhdqleutgrums34f-1-.jpeg"
+        },  
+        "mandante": { 
+            "nome": "Brasil", 
+            "forca": 5, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+        }, 
+      "visitante": { 
+            "nome": "Argentina",
+            "forca": 4, 
+            "imagem": "https://raw.githubusercontent.com/johnnymeneses/matches-simulator-api/main/flags/ar.png"
+        }
+ 
+    },
+    { 
+       "descricao": "Eliminatórias Copa 2022", 
+       "local": {
+            "nome": "Eden Park", 
+            "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/21/5d/1c/eden-park-new-zealand.jpg"
+        },  
+        "mandante": { 
+            "nome": "Nova Zelândia", 
+            "forca": 2, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/nz.png"
+        }, 
+      "visitante": { 
+            "nome": "Espanha",
+            "forca": 3, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
+        }
+ 
+    },
+    { 
+       "descricao": "Eliminatórias Copa 2022", 
+       "local": {
+            "nome": "Estadio Centenario", 
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
+        },  
+        "mandante": { 
+            "nome": "Uruguai", 
+            "forca": 2, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+        }, 
+      "visitante": { 
+            "nome": "Alemanha",
+            "forca": 4, 
+            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
+        }
+ 
+    } 
+
+]
