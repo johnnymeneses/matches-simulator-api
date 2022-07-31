@@ -12,8 +12,8 @@
         }, 
       "visitante": { 
             "nome": "Argentina",
-            "forca": 3, 
-            "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+            "forca": 4, 
+            "imagem": "https://raw.githubusercontent.com/johnnymeneses/matches-simulator-api/main/flags/ar.png"
         }
  
     },
